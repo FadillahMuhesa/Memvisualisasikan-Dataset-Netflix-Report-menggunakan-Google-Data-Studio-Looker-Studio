@@ -1,0 +1,2 @@
+# Memvisualisasikan-Dataset-Netflix-Report-menggunakan-Google-Data-Studio-Looker-Studio
+Deskripsi ini bertujuan untuk mengetahui perbedaan rating film dan acara TV di Netflix, perbandingan jumlah film dan acara TV, produksi film dan serial TV per negara, rentang waktu produksi tahunan, serta distribusi film dan serial TV. Hal ini juga memberikan business intelligence bagi investor &amp; akademisi dalam visualisasi menggunakan GDS/Looker.

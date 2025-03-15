@@ -5,8 +5,8 @@ Selain itu, Looker Studio menawarkan solusi alternatif yang efektif dalam mengub
 
 Dalam konteks akademik, penelitian ini juga menunjukkan bahwa Looker Studio merupakan alat yang efektif untuk menyampaikan informasi, berbagi laporan, serta membuat laporan yang dapat diakses kapan saja dan di mana saja. Dengan fitur interaktifnya, alat ini dapat menjadi media komunikasi data yang lebih dinamis. Selain itu, keunggulan lainnya adalah kemampuannya dalam mempercepat proses pengolahan dan pembaruan data, memungkinkan informasi yang lebih akurat dan terkini untuk digunakan dalam pengambilan keputusan.
 
-#Visualisasi Data 
+# Visualisasi Data 
 https://lookerstudio.google.com/reporting/18a8c483-3558-4762-9979-ccccab3e9c9d
 
-#Sumber Dataset
+# Sumber Dataset
 https://www.kaggle.com/datasets/shivamb/netflix-shows 
